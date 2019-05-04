@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT capture_automotive_2967.wsgi:application
